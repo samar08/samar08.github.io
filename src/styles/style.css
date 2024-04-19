@@ -1,5 +1,5 @@
 .sidebar{
-    height: 650px;
+    height: 798px;
     width:360px;
     border: 1px solid black;
 }
@@ -8,5 +8,5 @@
     width: 100%;
 }
 .sidebarbuttons{
-    margin-top: 20px;
+    margin-top: 40px;
 }
