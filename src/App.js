@@ -9,12 +9,16 @@ import Publications from './pages/Publications'
 import Achievements from './pages/Achievements'
 const App = () => {
   return (
-    <BrowserRouter>
-    <div style={{display:'flex'}}>
+    
+    <div style={{display:'flex'}} className='row'>
       
+      <BrowserRouter>
       <Sidebar/> 
-     <div>
+      
+     <div className='container-fluid border col-sm-9'>
+     
       <Routes>
+        <Route path="/" element={<Aboutme/>}></Route>
         <Route path="/aboutme" element={<Aboutme/>}></Route>
         <Route path="/workexp" element={<WorkExperience/>}></Route>
         <Route path="/projects" element={<Projects/>}></Route>
@@ -23,9 +27,9 @@ const App = () => {
       </Routes>
      
       </div>
-     
+      </BrowserRouter> 
     </div>
-    </BrowserRouter> 
+    
   )
 }
 
