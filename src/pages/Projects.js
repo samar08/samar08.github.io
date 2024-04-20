@@ -2,6 +2,7 @@ import React from 'react'
 import getbikeimage from '../images/getbikeimage.gif'
 import reimbursementimage from '../images/reimbursementportalimage.gif';
 import chatappimage from '../images/chatappimage.gif';
+import memoriesimage from '../images/memoriesimage.gif';
 const Projects = () => {
   return (
   
@@ -26,6 +27,18 @@ const Projects = () => {
            </div>
          </div>
         </div>
+        <div className="carousel-item">
+           <div className='card' style={{width:'50%'}}>
+           <center><img src={memoriesimage} alt="Memories" className="d-block" style={{width:'100%',height:"500px"}}/></center>
+           <div className='card-body border'>
+            <h4 className='card-title'>Memories</h4>
+            <p className='card-text'>This is a web application built using React.js, Node.js, Express and MongoDB where users can post interesting events happened in their lives.</p>
+            <a href="https://github.com/samar08/Memories" target="_blank" class="btn btn-primary">View project</a>
+           </div>
+           </div>
+           
+        </div>
+          
         <div className="carousel-item">
         <div className='card' style={{width:'50%'}}>
         <center><img src={reimbursementimage} alt="reimbursement portal" className="d-block" style={{width:'100%',height:"500px"}}/> </center>
