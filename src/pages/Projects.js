@@ -2,7 +2,7 @@ import React from 'react'
 import getbikeimage from '../images/getbikeimage.gif'
 import reimbursementimage from '../images/reimbursementportalimage.gif';
 import chatappimage from '../images/chatappimage.gif';
-import memoriesimage from '../images/memoriesimage.gif';
+import memoriesimage from '../images/memoriesimage.png';
 const Projects = () => {
   return (
   
@@ -16,7 +16,7 @@ const Projects = () => {
           </div> */}
       
       
-      <center><div className="carousel-inner" style={{marginTop:'36px'}}>
+      <center><div className="carousel-inner " style={{marginTop:'36px'}}>
       <div className="carousel-item active">
       <div className='card' style={{width:'50%'}}>
          <center><img src={chatappimage} alt="chat app" className="d-block" style={{width:'100%', height:"500px"}}/> </center>
@@ -28,7 +28,7 @@ const Projects = () => {
          </div>
         </div>
         <div className="carousel-item">
-           <div className='card' style={{width:'50%'}}>
+           <div className='card' style={{width:'60%'}}>
            <center><img src={memoriesimage} alt="Memories" className="d-block" style={{width:'100%',height:"500px"}}/></center>
            <div className='card-body border'>
             <h4 className='card-title'>Memories</h4>
@@ -38,7 +38,7 @@ const Projects = () => {
            </div>
            
         </div>
-          
+
         <div className="carousel-item">
         <div className='card' style={{width:'50%'}}>
         <center><img src={reimbursementimage} alt="reimbursement portal" className="d-block" style={{width:'100%',height:"500px"}}/> </center>
