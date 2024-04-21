@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 import { SocialIcon } from 'react-social-icons'
 const Sidebar = () => {
   return (
-    <div className='sidebar col-sm-3'>
+    <div className='sidebar col-md-3'>
 
 
       <center><img src={image} className='rounded'/></center>

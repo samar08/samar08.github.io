@@ -15,7 +15,7 @@ const App = () => {
       <BrowserRouter>
       <Sidebar/> 
       
-     <div className='container-fluid border col-sm-9'>
+     <div className='container-fluid border col-md-9'>
      
       <Routes>
         <Route path="/" element={<Aboutme/>}></Route>
