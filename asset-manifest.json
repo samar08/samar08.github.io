@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4a17f4b0.css",
-    "main.js": "/static/js/main.cf0a7d95.js",
+    "main.js": "/static/js/main.1c01b60f.js",
     "static/js/453.83234151.chunk.js": "/static/js/453.83234151.chunk.js",
     "static/media/reimbursementportalimage.gif": "/static/media/reimbursementportalimage.fe66bd60d01d3df639fc.gif",
     "static/media/chatappimage.gif": "/static/media/chatappimage.386553c391e6abc28466.gif",
@@ -12,11 +12,11 @@
     "static/media/getbikeimage.gif": "/static/media/getbikeimage.c895e05e10b0f7dc6f58.gif",
     "index.html": "/index.html",
     "main.4a17f4b0.css.map": "/static/css/main.4a17f4b0.css.map",
-    "main.cf0a7d95.js.map": "/static/js/main.cf0a7d95.js.map",
+    "main.1c01b60f.js.map": "/static/js/main.1c01b60f.js.map",
     "453.83234151.chunk.js.map": "/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a17f4b0.css",
-    "static/js/main.cf0a7d95.js"
+    "static/js/main.1c01b60f.js"
   ]
 }
