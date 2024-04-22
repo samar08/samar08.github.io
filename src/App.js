@@ -1,7 +1,7 @@
 import React from 'react'
 import Sidebar from './Components/Sidebar'
 import './styles/style.css'
-import { BrowserRouter,Routes,Route,Link,Outlet } from 'react-router-dom'
+import { BrowserRouter,Routes,Route,Link,Outlet , HashRouter} from 'react-router-dom'
 import Aboutme from './pages/Aboutme'
 import WorkExperience from './pages/WorkExperience'
 import Projects from './pages/Projects'
@@ -12,7 +12,7 @@ const App = () => {
     
     <div style={{display:'flex'}} className='row'>
       
-      <BrowserRouter>
+      <HashRouter>
       <Sidebar/> 
       
      <div className='container-fluid border col-md-9'>
@@ -28,7 +28,7 @@ const App = () => {
       </Routes>
      
       </div>
-      </BrowserRouter> 
+      </HashRouter> 
     </div>
     
   )
