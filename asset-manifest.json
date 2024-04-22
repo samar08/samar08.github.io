@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.4a17f4b0.css",
-    "main.js": "/myportfolio/static/js/main.4359490b.js",
-    "static/js/453.83234151.chunk.js": "/myportfolio/static/js/453.83234151.chunk.js",
-    "static/media/reimbursementportalimage.gif": "/myportfolio/static/media/reimbursementportalimage.fe66bd60d01d3df639fc.gif",
-    "static/media/chatappimage.gif": "/myportfolio/static/media/chatappimage.386553c391e6abc28466.gif",
-    "static/media/hpelogo.gif": "/myportfolio/static/media/hpelogo.2c6472c145c3deb37418.gif",
-    "static/media/flutterappimage.jpeg": "/myportfolio/static/media/flutterappimage.be402385bfe870b8ef98.jpeg",
-    "static/media/memoriesimage.png": "/myportfolio/static/media/memoriesimage.5d30dcf0c293a0149512.png",
-    "static/media/app.jpeg": "/myportfolio/static/media/app.6bc1ad03f4d63b71e9e6.jpeg",
-    "static/media/getbikeimage.gif": "/myportfolio/static/media/getbikeimage.c895e05e10b0f7dc6f58.gif",
-    "index.html": "/myportfolio/index.html",
-    "main.4a17f4b0.css.map": "/myportfolio/static/css/main.4a17f4b0.css.map",
-    "main.4359490b.js.map": "/myportfolio/static/js/main.4359490b.js.map",
-    "453.83234151.chunk.js.map": "/myportfolio/static/js/453.83234151.chunk.js.map"
+    "main.css": "/static/css/main.4a17f4b0.css",
+    "main.js": "/static/js/main.cf0a7d95.js",
+    "static/js/453.83234151.chunk.js": "/static/js/453.83234151.chunk.js",
+    "static/media/reimbursementportalimage.gif": "/static/media/reimbursementportalimage.fe66bd60d01d3df639fc.gif",
+    "static/media/chatappimage.gif": "/static/media/chatappimage.386553c391e6abc28466.gif",
+    "static/media/hpelogo.gif": "/static/media/hpelogo.2c6472c145c3deb37418.gif",
+    "static/media/flutterappimage.jpeg": "/static/media/flutterappimage.be402385bfe870b8ef98.jpeg",
+    "static/media/memoriesimage.png": "/static/media/memoriesimage.5d30dcf0c293a0149512.png",
+    "static/media/app.jpeg": "/static/media/app.6bc1ad03f4d63b71e9e6.jpeg",
+    "static/media/getbikeimage.gif": "/static/media/getbikeimage.c895e05e10b0f7dc6f58.gif",
+    "index.html": "/index.html",
+    "main.4a17f4b0.css.map": "/static/css/main.4a17f4b0.css.map",
+    "main.cf0a7d95.js.map": "/static/js/main.cf0a7d95.js.map",
+    "453.83234151.chunk.js.map": "/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a17f4b0.css",
-    "static/js/main.4359490b.js"
+    "static/js/main.cf0a7d95.js"
   ]
 }
